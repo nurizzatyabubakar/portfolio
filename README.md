@@ -14,12 +14,14 @@ I am a passionate data enthusiast with a Master's degree in Data Science and Ana
 - **GitHub:** [Link to GitHub Repository]
 - **Blog Post:** [Link to Medium or personal blog post]
 
+
 ## Skills
 
 - **Programming:** Python (NumPy, Pandas, scikit-learn), R
 - **Data Visualization:** Tableau
 - **Machine Learning:** Regression, Classification, Clustering
 - **Tools:** Jupyter Notebooks, Git, GitHub
+  
 
 ## Contact
 
